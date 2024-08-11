@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahmood-Alaghbari
+- 👋 Hi, I’m @MahmoodAlmur
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Visualization
